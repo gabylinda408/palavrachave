@@ -1,0 +1,1 @@
+export const PALAVRAS_RUINS = new Set (["the", "and", "was",'there',"I","they","Oh","your","many","dear","been","god","know","she","when","trunk","only","what","one","another"]);
